@@ -2,6 +2,7 @@
 
 Your personal always-listening AI assistant. Powered by Gemini or Claude.
 
+
 ## 🚀 Deploy to GitHub Pages (5 steps)
 
 1. Create a new GitHub repository (e.g. `friday-ai`)
